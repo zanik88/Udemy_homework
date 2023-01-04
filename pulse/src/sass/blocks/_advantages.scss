@@ -35,6 +35,14 @@
             &:hover {
                 animation-play-state: paused;
             }
+            animation: cup 0.5s ease infinite;
+            &:hover {
+                animation-play-state: paused;
+            }
+            animation: shoe 3.5s ease infinite;
+            &:hover {
+                animation-play-state: paused;
+            }
         }
     }
 }
